@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-(./assets/images/image.png)
+![alt text](./assets/images/image.png)
 
 # Author
 

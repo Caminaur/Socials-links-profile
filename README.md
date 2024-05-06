@@ -22,9 +22,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg![alt text](./assets/images/image.png))
+(./assets/images/image.png)
 
 # Author
 
-Julian Andres Caminaur
-https://julian-caminaur.tech/
+### Julian Andres Caminaur
+#### https://julian-caminaur.tech/

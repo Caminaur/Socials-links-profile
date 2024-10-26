@@ -15,9 +15,10 @@ body {
 body .card {
   background-color: hsl(0, 0%, 12%);
   width: 100%;
-  max-width: 300px;
+  max-width: 330px;
   margin: 2rem;
-  border-radius: 0.75rem;
+  padding: 0.7rem;
+  border-radius: 0.55rem;
 }
 body .card .user-info {
   display: flex;
@@ -43,7 +44,7 @@ body .card .user-info p.location {
   font-weight: 700;
 }
 body .card .subtitle {
-  color: rgba(255, 255, 255, 0.7607843137);
+  color: rgba(255, 255, 255, 0.9333333333);
   font-weight: 300;
   font-size: 12px;
   text-align: center;
